@@ -6,7 +6,6 @@ import (
 	"net/http/httputil"
 	"net/url"
 	"os"
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/servers"
 )
 
 type Server interface {
